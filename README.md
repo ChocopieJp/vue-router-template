@@ -1,4 +1,6 @@
-# skillboard
+# vue-router のテンプレート
+
+vue, vuex, vue-router, vutify が含まれます
 
 ## Project setup
 ```
