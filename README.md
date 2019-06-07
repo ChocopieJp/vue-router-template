@@ -2,6 +2,11 @@
 
 vue, vuex, vue-router, vutify が含まれます
 
+npm がない場合は node 用のコンテナを用意してますので下記コマンドで開始してください。
+`docker-compose up`
+
+npm がローカル環境にある場合は npm コマンドでプロジェクトを開始してください。
+
 ## Project setup
 ```
 npm install
